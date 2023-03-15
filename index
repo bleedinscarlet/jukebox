@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+
+  <title style="text-align-center" style="background-color:BlueViolet;">
+    <h1 style="text-align-center" style="colour:GhostWhite"> Streamer Jukebox </h1>
+  </title>
+  
+  <body style="background-color:GhostWhite;">
+  
+  <h2>Current</h2>
+  <h2>Playlist</h2>
+  <h2>Catalogue</h2>
+  
+          <p>test
+            </p>
+  
+  </body>
+  
+</html>
+
